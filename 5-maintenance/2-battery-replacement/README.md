@@ -56,7 +56,11 @@ Figure 5.6 Battery replacement location [HA006L]
 <table border="0">
 <thead>
   <tr>
-    <td> <img src="../../_assets/주의표시.png" width = 60 height = 60> </td>
+    <td>
+    <div align="center">
+    <img src="../../_assets/주의표시.png" width = 60 height = 60>
+    </div>
+    </td>
     <td colspan="4">
 -	Do not dispose the batteries. Dispose of the battery with industrial waste according to the laws and other rules in the country where the controller is installed.<br>
 -	Do not recharge the batteries, otherwise batteries may result in exploding or overheating.<br>
